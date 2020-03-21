@@ -1,7 +1,7 @@
 # Brain-Teaser-Questions
 Collection of crazy brain-teaser interview questions.
 
-1.**Bullets in Revolver** A Russian gangster kidnaps you. He puts two bullets in consecutive order in an empty six-round revolver, spins it, points it at your head and shoots. *click* You’re still alive. He then asks you, “do you want me to spin it again and fire or pull the trigger again right away?” For each option, what is the probability that you’ll be shot?
+1. **Bullets in Revolver** A Russian gangster kidnaps you. He puts two bullets in consecutive order in an empty six-round revolver, spins it, points it at your head and shoots. *click* You’re still alive. He then asks you, “do you want me to spin it again and fire or pull the trigger again right away?” For each option, what is the probability that you’ll be shot?
 
 2. **Probability of Raining:** You’re about to get on a plane to Seattle. You want to know if it’s raining. You call 3 random friends who live there and ask each if it’s raining. Each friend has a 2/3 chance of telling you the truth and a 1/3 chance of messing with you by lying. All 3 friends tell you that “Yes” it is raining. What is the probability that it’s actually raining in Seattle? 
 
